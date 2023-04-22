@@ -5,9 +5,20 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: darkorange;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+.sarthak{
+  background-color:blanchedalmond;
+  margin-top: 20%;
+  margin-left: 40%;
+  margin-right: 42%;
+  font-family: 'Courier New', Courier, monospace;
+  font-style: obliques;
+  border-radius: 10%;
+  border-style: double;
 }
