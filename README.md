@@ -1,7 +1,7 @@
-# Getting Started with React Hooks
+# React Hooks
 
 
-## useState 
+## 1. useState Hook
 
 A very simple Digital Clock using React useState hook.
 
